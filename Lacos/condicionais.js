@@ -16,7 +16,3 @@ if (soma > numero1 + numero2) {
 } else {
   console.log("Erro ao calcular a soma.");
 };
-
-
-// Exercício 2
-let idade = readline.questionInt("Digite sua idade: ");
