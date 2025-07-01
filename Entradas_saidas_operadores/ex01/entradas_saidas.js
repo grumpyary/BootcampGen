@@ -8,3 +8,4 @@ console.log(`Olá ${nome}, seu salário é ${salario}.`);
 const abono = readline.questionInt("Digite seu abono ");
 
 console.log(`Olá ${nome}, seu salário com abono é ${salario + abono}.`);
+    
