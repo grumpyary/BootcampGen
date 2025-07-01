@@ -16,3 +16,4 @@ if (soma > numero1 + numero2) {
 } else {
   console.log("Erro ao calcular a soma.");
 };
+// Exercício 2
