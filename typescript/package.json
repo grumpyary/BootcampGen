@@ -1,21 +1,13 @@
 {
-  "name": "bloco01",
+  "name": "typescript",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/grumpyary/Generation.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/grumpyary/Generation/issues"
-  },
-  "homepage": "https://github.com/grumpyary/Generation#readme",
   "description": "",
   "dependencies": {
     "@types/node": "^24.0.10",
